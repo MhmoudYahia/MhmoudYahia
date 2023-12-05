@@ -37,6 +37,7 @@
 ![PayPal API](https://img.shields.io/badge/PayPal%20API-00457C?style=flat&logo=paypal&logoColor=white)
 ![Event-Driven Programming](https://img.shields.io/badge/Event--Driven%20Programming-FF69B4?style=flat&logo=eventbrite&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)
+![SuperTest](https://img.shields.io/badge/SuperTest-3178C6?style=flat&logo=node.js&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-2.0-4A90E2?style=flat&logo=oauth&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm)
