@@ -15,12 +15,12 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-yahia-882144219/)
 
 &nbsp;
-## 🧰 &nbsp; My Toolbox 🛠 
+## 🧰  My Toolbox 🛠 
 
 #### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=000000)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
@@ -29,23 +29,31 @@
 #### Backend
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=Node.js&logoColor=ffffff)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![Nest.js](https://img.shields.io/badge/-NestJs-ea2845?style=flat&logo=nestjs&logoColor=white)
  ![Microservices](https://img.shields.io/badge/Microservices-007D8A?style=flat&logo=microsoft-azure&logoColor=white)
+ 
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=ffffff)
+![TypeORM](https://img.shields.io/badge/-TypeORM-E83524?style=flat&logo=typeorm&logoColor=ffffff)
+
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat&logo=nginx&logoColor=ffffff)
 ![NATS Streaming Server](https://img.shields.io/badge/NATS%20Streaming%20Server-222222?style=flat&logo=nats&logoColor=76D0C1)
-![PayPal API](https://img.shields.io/badge/PayPal%20API-00457C?style=flat&logo=paypal&logoColor=white)
 ![Event-Driven Programming](https://img.shields.io/badge/Event--Driven%20Programming-FF69B4?style=flat&logo=eventbrite&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=ffffff)
+
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)
 ![SuperTest](https://img.shields.io/badge/SuperTest-3178C6?style=flat&logo=node.js&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-2.0-4A90E2?style=flat&logo=oauth&logoColor=white)
+
+![PayPal API](https://img.shields.io/badge/PayPal%20API-00457C?style=flat&logo=paypal&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-61DAFB?style=flat&logo=rest&logoColor=white)
  ![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=flat&logoColor=white)
- ![Google reCAPTCHA](https://img.shields.io/badge/Google%20reCAPTCHA-4285F4?style=flat&logoColor=white)
  
+ ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+ ![Google reCAPTCHA](https://img.shields.io/badge/Google%20reCAPTCHA-4285F4?style=flat&logoColor=white)
+ ![OAuth](https://img.shields.io/badge/OAuth-2.0-4A90E2?style=flat&logo=oauth&logoColor=white)
 #### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
@@ -60,7 +68,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-
 
 #### Others
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
